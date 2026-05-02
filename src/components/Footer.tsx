@@ -27,7 +27,7 @@ export default function Footer() {
               </span>
             </a>
             <p className="text-white/30 text-sm leading-relaxed max-w-xs">
-              Automating the future, one workflow at a time.
+              We Automate. You Dominate.
             </p>
           </div>
 
