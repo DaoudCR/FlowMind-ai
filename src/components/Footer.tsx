@@ -8,7 +8,7 @@ const footerLinks = [
 ];
 
 const socialLinks = [
-  { icon: Linkedin, href: '#', label: 'LinkedIn' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/muhammad-daoud-097a2b33b/', label: 'LinkedIn' },
   { icon: Twitter, href: '#', label: 'Twitter' },
   { icon: Instagram, href: '#', label: 'Instagram' },
 ];
